@@ -2,4 +2,4 @@
 This will cause a merge conflict
 A repository for CSCI 3308 Lab 4
 Credit: Yongbo Shu
-Parter:Omarmo Mohammed
+Partner:Omarmo Mohammed
