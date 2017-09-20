@@ -1,5 +1,5 @@
 # Shu_Lab4
-# This will cause a merge conflict
+This will cause a merge conflict
 A repository for CSCI 3308 Lab 4
 Credit: Yongbo Shu
-Partner:Omar Mohammed
+12313
